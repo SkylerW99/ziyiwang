@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ziyi's gallery.
 
 You can use the [editor on GitHub](https://github.com/SkylerW99/ziyiwang/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
