@@ -50,7 +50,7 @@ to this section's matching END comment to see page-specific styles.
 
 body {
   font-family: HK Grotesk;
-  background-image: linear-gradient(to right, rgba(0,0,255,0), rgba(0,0,255,0.7));
+  background-image: linear-gradient(to right, rgba(0,0,255,0), rgba(0,0,255,0.5));
 }
 
 
@@ -60,7 +60,7 @@ h2 {
 }
 
 h3{
-  color: grey;
+  color: #484848;
 }
 /*paragraph*/
 
